@@ -1,6 +1,6 @@
-##👋 About Me
+👋 About Me
 
-##Hi! I’m a 19-year-old developer currently working with TypeScript.
+Hi! I’m a 19-year-old developer currently working with TypeScript.
 I focus on building modern, fast, and user-friendly web applications. I enjoy writing clean, readable code and continuously improving my skills by working on real-world projects and learning best practices.
 
 🛠️ Main Stack
