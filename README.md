@@ -1,4 +1,13 @@
-## Hi there 👋
+##👋 About Me
+
+##Hi! I’m a 19-year-old developer currently working with TypeScript.
+I focus on building modern, fast, and user-friendly web applications. I enjoy writing clean, readable code and continuously improving my skills by working on real-world projects and learning best practices.
+
+🛠️ Main Stack
+
+⚡ TypeScript
+⚛️ React
+🔥 Vite
 
 <!--
 **BAILANDO2606/BAILANDO2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
